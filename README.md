@@ -1,12 +1,11 @@
-# React + Vite
+🚀 Just Finished: KindLift — A Smooth, Animated Donation & Impact Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+KindLift features scroll-based animations, a clean UI, and fully responsive layouts designed to work seamlessly across all devices.
 
-Currently, two official plugins are available:
+🛠️ Built With:
+  ⚛️ React.js – for a dynamic, component-based frontend
+  🎨 Tailwind CSS – for a clean, responsive design
+  🎞️ Framer Motion – for smooth, modern animations
+  👁️ Intersection Observer – to power scroll-based effects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  <img width="1875" height="898" alt="image" src="https://github.com/user-attachments/assets/5f509201-c2b9-4b81-983c-857814eb3f77" />
